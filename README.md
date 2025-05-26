@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Ugalmugale</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Backend Specialist | Cloud & DevOps Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Cloud & DevOps </h3>
 
 ---
 
 - 🌍 I'm based in **India**  
 - ✉️ Reach me at: [abhishek.ugalmugale.dev@gmail.com](mailto:abhishek.ugalmugale.dev@gmail.com)
-
----
-
-### ✅ About Me
-
-🔹 A passionate full stack developer with strong backend expertise.  
-🔹 Constantly learning and building real-world solutions.  
-🔹 Currently working at **Cognizant Technology Solutions**.  
-🔹 Preparing to switch to a **product-based company** as an **SDE**.
 
 ---
 
