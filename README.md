@@ -15,7 +15,7 @@
 - Spring Boot
 - RESTful APIs
 - Microservices Architecture
-
+  
 #### ✅ Frontend Development
 - HTML, CSS, JavaScript
 - React.js
@@ -23,18 +23,19 @@
 #### ✅ Databases
 - MySQL
 - MongoDB
+- Redis (Caching)
 
 #### ✅ DevOps & Cloud
 - Docker
 - Jenkins
 - Kafka
-- AWS
+- AWS 
 - CI/CD Pipelines
 
 #### ✅ Testing & Optimization
 - Unit Testing: JUnit, Mockito
 - Performance Tuning (Java backend systems)
-
+- Selenium, Appium, Postman (Web UI & API Testing)
 ---
 
 ### 🚀 Tools & Technologies
@@ -59,7 +60,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/abhishekugalmugale"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/AbhishekU19"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="http://www.instagram.com/abhishekugalmugale19"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
   <a href="https://discord.com/users/#5200"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
