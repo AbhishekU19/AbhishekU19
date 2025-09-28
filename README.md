@@ -15,9 +15,10 @@
 - Spring Boot
 - RESTful APIs
 - Microservices Architecture
+- LLD & HLD
   
 #### ✅ Frontend Development
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Tailwind CSS
 - React.js
 
 #### ✅ Databases
@@ -31,13 +32,14 @@
 - Kafka
 - AWS 
 - CI/CD Pipelines
+- Git & Linux
 
 #### ✅ Testing & Optimization
 - Unit Testing: JUnit, Mockito
 - Performance Tuning (Java backend systems)
 - Selenium, Appium, Postman (Web UI & API Testing)
+  
 ---
-
 ### 🚀 Tools & Technologies
 
 <p align="left">
