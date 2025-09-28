@@ -3,7 +3,7 @@
 
 ---
 
-- 🌍 I'm based in **India**  
+- 🌍 I'm Software Development Engineer | Full Stack Developer
 - ✉️ Reach me at: [abhishek.ugalmugale.dev@gmail.com](mailto:abhishek.ugalmugale.dev@gmail.com)
 
 ---
