@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Ugalmugale
 
-### Backend-Heavy Full Stack Developer | Java | Spring Boot | Cloud & DevOps
+### Full Stack Developer | Java | Spring Boot | Cloud & DevOps | React.js
 
 <div align="center">
 
@@ -14,12 +14,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development Engineer** with **~2.6 years** of experience building scalable backend systems and full-stack applications. Currently exploring opportunities to transition into product-based companies where I can focus on backend engineering and system design.
+I'm a **Software Development Engineer** with **~2.5 years** of hands-on experience building scalable backend systems and full-stack applications. Passionate about clean code, microservices architecture, and system design. Currently transitioning to focus on high-impact backend engineering work.
 
-- 🏢 **Experience**: Verizon USA (E-commerce Telecom Domain)
 - 📍 **Location**: Pune, India  
 - 🎯 **Target Role**: Java Full Stack Developer / Backend Engineer / SDE 1
-- 🚀 **Goal**: Master backend architecture, microservices, and system design
+- 🚀 **Expertise**: Microservices, RESTful APIs, System Design, Cloud Architecture, React.js
 
 ---
 
@@ -32,7 +31,7 @@ I'm a **Software Development Engineer** with **~2.6 years** of experience buildi
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-**Skills**: OOP • Collections • Streams API • Concurrency • RESTful APIs • Microservices Architecture
+**Core Skills**: OOP • Collections • Streams API • Concurrency • RESTful APIs • Microservices Architecture
 
 ### Databases & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -40,7 +39,7 @@ I'm a **Software Development Engineer** with **~2.6 years** of experience buildi
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Skills**: RDBMS Design • NoSQL Optimization • Caching Strategies • Query Optimization
+**Database Skills**: RDBMS Design • NoSQL Optimization • Caching Strategies • Query Optimization • Indexing
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -48,7 +47,7 @@ I'm a **Software Development Engineer** with **~2.6 years** of experience buildi
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Skills**: EC2 • S3 • RDS • CI/CD Pipelines • Containerization • Linux
+**DevOps Skills**: EC2 • S3 • RDS • CI/CD Pipelines • Containerization • Container Registry • Linux
 
 ### Frontend (Full Stack Capability)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -56,39 +55,24 @@ I'm a **Software Development Engineer** with **~2.6 years** of experience buildi
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Skills**: React Hooks • REST API Integration • Responsive UI • State Management
+**Frontend Skills**: React Hooks • REST API Integration • Responsive UI • State Management • ES6+
 
 ### Tools & Utilities
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-**Skills**: Gradle • Swagger • ELK Stack • Jira • Agile/Scrum
+**Other Tools**: Gradle • Swagger • ELK Stack • Jira • Agile/Scrum • Confluence
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I'm Currently Focused On
 
-- 💪 **Strengthening Backend Fundamentals**: Low-Level & High-Level System Design
-- 🧠 **Data Structures & Algorithms**: DSA in Java for technical interviews
-- 🔄 **Microservices & Distributed Systems**: Building scalable applications
-- ☁️ **Cloud-Native Development**: AWS and containerized deployments
-
----
-
-## 📌 Featured Projects
-
-### E-Commerce Backend Microservices
-**Tech**: Spring Boot • MySQL • Redis • Docker • AWS EC2  
-Designed and developed scalable microservices architecture for telecom e-commerce platform with real-time inventory management and caching optimization.
-
-### Library Management System
-**Tech**: React.js • Spring Boot • MongoDB • JWT  
-Full-stack application with role-based access control, demonstrating clean API design and modern frontend integration.
-
-### RESTful API Service Layer
-**Tech**: Spring Boot • JPA/Hibernate • PostgreSQL  
-Built robust service layer with transaction management, error handling, and comprehensive logging.
+- 💪 **System Design & Architecture**: LLD and HLD for scalable applications
+- 🧠 **Data Structures & Algorithms**: Strengthening DSA fundamentals in Java
+- 🔄 **Distributed Systems**: Building resilient microservices with eventual consistency
+- ☁️ **Cloud-Native Solutions**: AWS best practices and containerized deployments
+- 📊 **Performance Optimization**: Database tuning and caching strategies
 
 ---
 
@@ -105,12 +89,13 @@ Built robust service layer with transaction management, error handling, and comp
 
 ---
 
-## 📈 What I'm Learning
+## 📈 Continuous Learning
 
 - Advanced System Design patterns and scalability principles
-- Distributed tracing and observability (ELK Stack, Prometheus)
-- Spring Cloud and container orchestration
-- Performance optimization and benchmarking
+- Distributed tracing and observability (ELK Stack, Prometheus, Grafana)
+- Spring Cloud ecosystem and container orchestration
+- Performance profiling and JVM optimization
+- Software Architecture patterns (SOLID, Clean Code)
 
 ---
 
@@ -119,11 +104,12 @@ Built robust service layer with transaction management, error handling, and comp
 - **Email**: [abhishek.ugalmugale.dev@gmail.com](mailto:abhishek.ugalmugale.dev@gmail.com)
 - **LinkedIn**: [Abhishek Ugalmugale](https://www.linkedin.com/in/abhishekugalmugale)
 - **GitHub**: [@AbhishekU19](https://github.com/AbhishekU19)
+- **Discord**: Available for technical discussions and collaborations
 
 ---
 
 <div align="center">
 
-**Let's build something scalable together!** ⚡
+**Open to discussions on system design, backend architecture, and impactful projects** 
 
 </div>
