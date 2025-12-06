@@ -1,78 +1,129 @@
-<h1 align="center">Hi 👋, I'm Abhishek </h1>
-<h3 align="center">🚀 Full Stack Developer | Cloud & DevOps </h3>
+# 👋 Hi, I'm Abhishek Ugalmugale
+
+### Backend-Heavy Full Stack Developer | Java | Spring Boot | Cloud & DevOps
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekugalmugale)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhishekU19)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek.ugalmugale.dev@gmail.com)
+
+</div>
 
 ---
 
-- 🌍 I'm Software Development Engineer | Full Stack Developer
-- ✉️ Reach me at: [abhishek.ugalmugale.dev@gmail.com](mailto:abhishek.ugalmugale.dev@gmail.com)
+## 👨‍💻 About Me
+
+I'm a **Software Development Engineer** with **~2.6 years** of experience building scalable backend systems and full-stack applications. Currently exploring opportunities to transition into product-based companies where I can focus on backend engineering and system design.
+
+- 🏢 **Experience**: Verizon USA (E-commerce Telecom Domain)
+- 📍 **Location**: Pune, India  
+- 🎯 **Target Role**: Java Full Stack Developer / Backend Engineer / SDE 1
+- 🚀 **Goal**: Master backend architecture, microservices, and system design
 
 ---
 
-### 🛠 Skills
+## 🛠 Tech Stack
 
-#### ✅ Backend Development
-- Java (Core + OOPs)
-- Spring Boot
-- RESTful APIs
-- Microservices Architecture
-- LLD & HLD
-  
-#### ✅ Frontend Development
-- HTML, CSS, JavaScript, Tailwind CSS
-- React.js
+### Core Backend & Language
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Core](https://img.shields.io/badge/Spring%20Core-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
-#### ✅ Databases
-- MySQL
-- MongoDB
-- Redis (Caching)
+**Skills**: OOP • Collections • Streams API • Concurrency • RESTful APIs • Microservices Architecture
 
-#### ✅ DevOps & Cloud
-- Docker
-- Jenkins
-- Kafka
-- AWS 
-- CI/CD Pipelines
-- Git & Linux
+### Databases & Caching
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-#### ✅ Testing & Optimization
-- Unit Testing: JUnit, Mockito
-- Performance Tuning (Java backend systems)
-- Selenium, Appium, Postman (Web UI & API Testing)
-  
----
-### 🚀 Tools & Technologies
+**Skills**: RDBMS Design • NoSQL Optimization • Caching Strategies • Query Optimization
 
-<p align="left">
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express.js" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Skills**: EC2 • S3 • RDS • CI/CD Pipelines • Containerization • Linux
+
+### Frontend (Full Stack Capability)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Skills**: React Hooks • REST API Integration • Responsive UI • State Management
+
+### Tools & Utilities
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+
+**Skills**: Gradle • Swagger • ELK Stack • Jira • Agile/Scrum
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Current Focus
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhishekugalmugale"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-  <a href="https://www.github.com/AbhishekU19"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://discord.com/users/#5200"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-</p>
+- 💪 **Strengthening Backend Fundamentals**: Low-Level & High-Level System Design
+- 🧠 **Data Structures & Algorithms**: DSA in Java for technical interviews
+- 🔄 **Microservices & Distributed Systems**: Building scalable applications
+- ☁️ **Cloud-Native Development**: AWS and containerized deployments
 
 ---
 
-### 🏆 GitHub Stats
+## 📌 Featured Projects
 
-<a href="http://www.github.com/AbhishekU19"><img src="https://github-readme-stats.vercel.app/api?username=AbhishekU19&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="AbhishekU19's GitHub stats" /></a>
+### E-Commerce Backend Microservices
+**Tech**: Spring Boot • MySQL • Redis • Docker • AWS EC2  
+Designed and developed scalable microservices architecture for telecom e-commerce platform with real-time inventory management and caching optimization.
 
-<a href="http://www.github.com/AbhishekU19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekU19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Library Management System
+**Tech**: React.js • Spring Boot • MongoDB • JWT  
+Full-stack application with role-based access control, demonstrating clean API design and modern frontend integration.
 
-<a href="http://www.github.com/AbhishekU19"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbhishekU19&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### RESTful API Service Layer
+**Tech**: Spring Boot • JPA/Hibernate • PostgreSQL  
+Built robust service layer with transaction management, error handling, and comprehensive logging.
 
-<a href="https://github.com/AbhishekU19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekU19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+---
+
+## 📊 GitHub Stats
+
+<a href="https://github.com/AbhishekU19">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbhishekU19&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekU19&layout=compact&langs_count=8&theme=dark" />
+</a>
+
+<a href="https://github.com/AbhishekU19">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekU19&theme=dark" />
+</a>
+
+---
+
+## 📈 What I'm Learning
+
+- Advanced System Design patterns and scalability principles
+- Distributed tracing and observability (ELK Stack, Prometheus)
+- Spring Cloud and container orchestration
+- Performance optimization and benchmarking
+
+---
+
+## 📫 How to Reach Me
+
+- **Email**: [abhishek.ugalmugale.dev@gmail.com](mailto:abhishek.ugalmugale.dev@gmail.com)
+- **LinkedIn**: [Abhishek Ugalmugale](https://www.linkedin.com/in/abhishekugalmugale)
+- **GitHub**: [@AbhishekU19](https://github.com/AbhishekU19)
+
+---
+
+<div align="center">
+
+**Let's build something scalable together!** ⚡
+
+</div>
