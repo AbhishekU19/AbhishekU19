@@ -49,7 +49,7 @@ I'm a **Software Development Engineer** with **~2.5 years** of hands-on experien
 
 **DevOps Skills**: EC2 • S3 • RDS • CI/CD Pipelines • Containerization • Container Registry • Linux
 
-### Frontend (Full Stack Capability)
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
