@@ -66,16 +66,6 @@ I'm a **Software Development Engineer** with **~2.5 years** of hands-on experien
 
 ---
 
-## 🚀 What I'm Currently Focused On
-
-- 💪 **System Design & Architecture**: LLD and HLD for scalable applications
-- 🧠 **Data Structures & Algorithms**: Strengthening DSA fundamentals in Java
-- 🔄 **Distributed Systems**: Building resilient microservices with eventual consistency
-- ☁️ **Cloud-Native Solutions**: AWS best practices and containerized deployments
-- 📊 **Performance Optimization**: Database tuning and caching strategies
-
----
-
 ## 📊 GitHub Stats
 
 <a href="https://github.com/AbhishekU19">
@@ -110,6 +100,6 @@ I'm a **Software Development Engineer** with **~2.5 years** of hands-on experien
 
 <div align="center">
 
-**Open to discussions on system design, backend architecture, and impactful projects** 
+**Open to discussions on system design, backend architecture, and impactful projects** 🚀
 
 </div>
