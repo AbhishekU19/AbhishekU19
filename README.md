@@ -90,7 +90,8 @@ I'm a **Software Development Engineer** with **~2.5 years** of hands-on experien
 
 ## 📫 How to Reach Me
 
-- **Email**: [abhishek.ugalmugale.dev@gmail.com](mailto:abhishek.ugalmugale.dev@gmail.com)
+- **Email**: [abhishek.ugalmugale.dev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=abhishek.ugalmugale.dev@gmail.com)
+
 - **LinkedIn**: [Abhishek Ugalmugale](https://www.linkedin.com/in/abhishekugalmugale)
 - **GitHub**: [@AbhishekU19](https://github.com/AbhishekU19)
 - **Discord**: Available for technical discussions and collaborations
