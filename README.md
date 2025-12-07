@@ -18,7 +18,6 @@ I'm a **Software Development Engineer** with **~2.5 years** of hands-on experien
 
 - 📍 **Location**: Pune, India  
 - 🎯 **Target Role**: Java Full Stack Developer / Backend Engineer / SDE 1
-- 🚀 **Expertise**: Java, Spring Boot, Microservices, RESTful APIs, System Design, Cloud Architecture, React.js
 
 ---
 
