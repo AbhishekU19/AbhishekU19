@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development Engineer** with **2.6 years** of hands-on experience building scalable backend systems and full-stack applications. Passionate about clean code, microservices architecture, and system design. Currently transitioning to focus on high-impact Full-stack/backend engineering work.
+I'm a **Software Development Engineer** with **2.5 years** of hands-on experience building scalable backend systems and full-stack applications. Passionate about clean code, microservices architecture, and system design. Currently transitioning to focus on high-impact Full-stack/backend engineering work.
 
 - 📍 **Location**: Pune, India  
 - 🎯 **Target Role**: Java Full Stack Developer / Backend Engineer / SDE 1
